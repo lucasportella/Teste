@@ -1,0 +1,134 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+
+
+.section-1 {
+    padding: 5% 0%;
+}
+
+.picture-text {
+    text-align: center;
+    margin: 3% 0%
+
+}
+
+.picture {
+    width: 300px;
+    min-height: 250px;
+background-color: blueviolet;
+    display: inline-block;
+    margin: 1%;
+}
+
+.text {
+    width: 400px;
+    min-height: 200px;
+    background-color: crimson;
+    display: inline-block;
+    margin: 1%;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+.section-2 {
+    padding: 5% 0%;
+}
+
+
+.engloba-elementos-section-2 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+h3 {
+    width: fit-content;
+    margin: 2%;
+    margin-left: 5%;
+    background-color: darkgreen;
+    text-align: center;
+}
+
+.skills {
+    display: inline-block;
+    margin: 2%;
+}
+
+.gear-picture {
+    min-width: 4%;
+    height: 50px;
+    background-color: darkslateblue;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+
+
+
+
+
+
+
+.section-3 {
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+.contact-title {
+    margin: 1%;
+    margin-left: 10%;
+}
+
+.engloba-elementos-section-3 {
+    text-align: center;
+}
+
+.email-link {
+    margin: 1%;
+}
+
+.cell-github {
+    margin: 1%;
+
+
+}
+
+.email-link {
+    margin: 1%;
+
+}
+
+.email {
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.linkedin {
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.cell-phone {
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.github {
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+}
