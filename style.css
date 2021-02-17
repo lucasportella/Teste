@@ -18,17 +18,16 @@
 }
 
 .picture {
-    width: 300px;
-    min-height: 250px;
+    width: 25%;
+    height: 250px;
 background-color: blueviolet;
     display: inline-block;
     margin: 1%;
 }
 
 .text {
-    min-width: 250px;
     width: 30%;
-    min-height: 200px;
+    height: 200px;
     background-color: crimson;
     display: inline-block;
     margin: 1%;
