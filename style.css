@@ -15,21 +15,20 @@
 .div-1 {
     background-color: blueviolet;
     float: right;
+    width: 300px;
 }
 
 .div-2 {
     background-color: brown;
     float: right;
+    width: 300px;
 }
 
-.div-2 p {
+p {
+
 }
 
-.pe {
+article {
  background-color: silver;
-}
-
-.teste {
-    width: 600px;
-    height: 400px;
+ overflow: hidden;
 }
