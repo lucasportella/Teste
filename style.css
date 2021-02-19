@@ -3,132 +3,28 @@
     padding: 0%;
 }
 
-
-
-
-
-.section-1 {
-    padding: 5% 0%;
+body {
 }
 
-.picture-text {
-    text-align: center;
-    margin: 3% 0%;
-
-}
-
-.picture {
+div {
     width: 300px;
-    height: 250px;
-    background-color: blueviolet;
-    display: inline-block;
-    margin: 1%;
+    height: 300px;
 }
 
-.text {
-    width: 30%;
-    height: 200px;
-    background-color: crimson;
-    display: inline-block;
-    margin: 1%;
-    text-align: justify;
-}
-
-
-
-
-
-
-
-
-
-.section-2 {
-    padding: 5% 0%;
-}
-
-
-.engloba-elementos-section-2 {
+.div-1 {
+    background-color: violet;
     text-align: center;
-    margin-bottom: 5%;
-}
-
-h3 {
-    width: fit-content;
-    margin: 2%;
-    margin-left: 5%;
-    background-color: darkgreen;
-    text-align: center;
-}
-
-.skills {
     display: inline-block;
-    margin: 2%;
 }
 
-.gear-picture {
-    min-width: 4%;
-    height: 50px;
-    background-color: darkslateblue;
-    display: inline-block;
-    margin-left: 10%;
-}
-
-
-
-
-
-
-
-
-.section-3 {
-    margin-top: 1%;
-    margin-bottom: 5%;
-}
-
-.contact-title {
-    margin: 1%;
-    margin-left: 10%;
-}
-
-.engloba-elementos-section-3 {
-    text-align: center;
-}
-
-.email-link {
-    margin: 1%;
-}
-
-.cell-github {
-    margin: 1%;
-
+.div-1-1 {
+ width: 30px;
+ height: 30px;
+ background-color: turquoise;
+ vertical-align: middle;
 
 }
 
-.email-link {
-    margin: 1%;
-
-}
-
-.email {
-    display: inline-block;
-    margin-left: 2%;
-    margin-right: 2%;
-}
-
-.linkedin {
-    display: inline-block;
-    margin-left: 2%;
-    margin-right: 2%;
-}
-
-.cell-phone {
-    display: inline-block;
-    margin-left: 2%;
-    margin-right: 2%;
-}
-
-.github {
-    display: inline-block;
-    margin-left: 2%;
-    margin-right: 2%;
+.div-2 {
+    background-color: tomato;
 }
