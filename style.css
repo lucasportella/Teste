@@ -4,32 +4,31 @@
     padding: 0%;
 }
 
-.div-2 {
-    width: 200px;
-    height: 200px;
-    background-color: rgb(140, 141, 141);
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+header {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-bottom: blue solid 1px;
+    margin-bottom: 2%;
+    position: sticky;
+    background-color: darkorchid;
+    top: 0px;
 }
 
-.div-interna {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    background-color: tomato;
-    line-height: 100px;
-    text-align: center;
-    left: 50%;
-    transform: translateX(-50%) translateY(+50%);
+.div-2 {
+    width: 20%;
+    height: 250px;
+    background-color: cadetblue;
+    position: sticky;
+    left: 75%;
+    bottom: 30%;
 }
 
 .div-3 {
-    width: 200px;
-    height: 200px;
-    background-color: yellowgreen;
+    width: 100%;
+    height: 5%;
+    background-color: darkblue;
     text-align: center;
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    padding: 3% 0px;
+    position: sticky;
+    bottom: 0%;
 }
